@@ -16,11 +16,11 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7051045109:AAF0HETCAvSoH6pVvSsqg4XrZtWusBB4r44'
+TOKEN = '7139642208:AAGqcI3aH8ohDtT760-ASqo-jwrfbTKiaHw'
 MONGO_URI = 'mongodb+srv://VENOMxCRAZY:CRAZYxVENOM@cluster0.ythilmw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0&tlsAllowInvalidCertificates=true'
-FORWARD_CHANNEL_ID = -1002210228607
-CHANNEL_ID = -1002210228607
-error_channel_id = -1002210228607
+FORWARD_CHANNEL_ID = -4224271914
+CHANNEL_ID = -4224271914
+error_channel_id = -4224271914
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
